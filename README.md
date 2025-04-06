@@ -72,10 +72,11 @@ python app.py
 http://localhost:5000/
 
 ✨ Future Enhancements
-User profile management
-Machine learning for smarter suggestions
-Admin dashboard to upload product data
-Exporting recommendations as PDF
-Responsive mobile-first design
+
+1.User profile management
+2.Machine learning for smarter suggestions
+3.Admin dashboard to upload product data
+4.Exporting recommendations as PDF
+5.Responsive mobile-first design
 
 
